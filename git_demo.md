@@ -9,6 +9,3 @@
 
 - ファイルの状態を確認
     - git status
-aaa
-bbb
-ccc
